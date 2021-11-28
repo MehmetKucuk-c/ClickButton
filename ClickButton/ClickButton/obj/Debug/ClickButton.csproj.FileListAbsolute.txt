@@ -1,0 +1,12 @@
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.exe.config
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.exe
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\bin\Debug\ClickButton.pdb
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csprojAssemblyReference.cache
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.Form1.resources
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.Properties.Resources.resources
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csproj.GenerateResource.cache
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.exe
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.pdb
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csproj.CopyComplete
+C:\Users\Setepa-i\source\repos\ClickButton\ClickButton\obj\Debug\ClickButton.csproj.CoreCompileInputs.cache
